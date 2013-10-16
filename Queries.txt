@@ -1,0 +1,64 @@
+1.   What   which  with (Time Shar ), an for IBM computers?   
+2.   I am  in    by Prieve or Udo Pooch   
+3.   Intermediate languages d in  of multi-targeted compilers; TCOLL   
+4.     in  for   disjoint processes, , but not , in a distributed . I would    of  , with or without , as  to theoretical  on the abstract problem. Remote procedure calls and message-pass are s of my s.   
+5.      on  and implementation of edit interfaces, window-managers, command interpreters, etc. The   are   , with  on  to r ,  and .  
+6.    in  on robotics, motion plann ly the geometric and combinatorial . We are not  in the dynamics of arm motion.   
+7.   I am  in distributed  -   in which processes communicate and synchronize by  message pass. Areas of   include fault-tolerance and  for  the  of these .  
+8.   Address schemes for resources in nets; resource address in net operat s   
+9.   Security siderations in local nets, net operat s, and distributed s.     
+10.    languages;  
+11.   SETL,  High Level Languages   
+12.   portable operat s   
+13.   code optimization for space    
+14.    all  of   of sort  for database management    
+15.    all  of horizontal microcode optimization with on optimization of loops and  optimization.   
+16.    all  of file handl in operat s  on  processes and message pass.   
+17.   Optimization of intermediate and machine code   
+18.   Languages and compilers for  processors,   horizontal microcoded machines; code compaction   
+19.       
+20.   Graph theoretic   to sparse matrices    
+21.   computational complexity, intractability, class- reductions,  and    
+22.   I am  in hidden-line and hidden-surface  for cylinders, toroids, spheres, and es.  This is a    in .   
+23.   Distributed comput structures and .   
+24.    stochastic processes   
+25.   Performance evaluation and modell of computer s  
+26.   currency trol  in operat s
+27.   Memory management  of operat s
+28.   Any  on packet radio nets. Of   are  for packet rout, and for  with s in net topography.  I am not  in the hardware d in the net.
+29.   Number-theoretic ,   prime number series, sieves, and Chinese Remainder theorem. 
+30.    on text formatt s,.  s: t/nroff, scribe, bravo.
+31.     to    the  of sular value dmposition in digital image process.  approximations to the original image and restor images that are  to noise. on the  is H. Andrews and C. Patterson "Outer  expansions and their s in digital image process", American Mathematical Andrews, H. Patterson, C.
+32.     to    graph  that are  on the eigenvalue dmposition (or sular value dmposition) of the ajacency matrix for the graph.     in any   for graph color and graph isomorphism  this.
+33.    about the  of the eigenvalue dmposition of real matrices, in , zero-one matrices.     in the separation of eigenspaces  to distinct eigenvalues.  on the : C. Davis and W. Kahn, "The rotation of eigenvectors by a permutation:, SIAM J. Numerical ,; G. Stewart, "Error bounds for  invariant paces of closed linear operators", SIAM J. Numerical ., . Davis, C. Kahn, W.Stewart, G.
+34.     in isolation of root of polynomial; there is an   . Heindel, L.
+35.   Probabiic   those  with algebraic and symbolic manipulation. Some s: Rabiin, "Probabiic  on finite field", SIAM Waztch, "Probabiic test of polynomial identities", SIAM Rabin,M.
+36.     for text- language rgnition or pars
+37.     the   data s and currency (e.g. what is the  of a process?  when is a synchronization   two processes " correct"?  in a message-pass  is there any notion of the s of messages?--i.e. any way to  that the sender of the message and the receiver are both treat the bit stream as some  )
+38.   What is the  of a module? ( in s about how one can  that a module "matches" texts in which it is d.)
+39.   What does  compatibility mean in languages that  programmer ded s?  (You   to restrict this to "extensible" languages that s or programmer-supplied definitions of operators  *, +.)
+40.    all   with data s in the follow languages: that are referenced frequently in  on the above languages (e.g. catch any languages with   structures that I  have missed).
+41.   Theory of distributed s and databases.   of   include reliability and fault-tolerance in distributed s, atomicity, distributed transactions, synchronization , resource allocation; lower bounds and models for asynchronous  s. Also theory of  processes and protocols.
+42.   Computer performance evaluation   pattern rgnition and cluster.
+43.    and perception of shape by s and computer.  Two-dimensional. Measures of circularity.
+44.   Digitized texture . Texture synthesis.
+45.   The  of operations research models to optimize   performance.  This     such as index selection, file reorganization, and distributed databases.
+46.   The of fuzzy et theory to cluster and  retrieval problems.  This  performance evaluation and automatic index siderations.
+47.   The  of Bayesian decision models to optimize  retrieval  performance.  This  stopp when a r should cease scann the output of a retrieval search.
+48.   The  of computer science principles (e.g. data structures, numerical s) in generat optimization (e.g. linear programm) .  This   of the Khachian (Russian, ellipsoidal)  and complexity of such .
+49.   The  of  retrieval in knowledge  s (i.e.,  s).
+50.    processors in  retrieval
+51.    processors and pag 
+52.   Modell and simulation in agricultural.
+53.   mathematical induction, group theory, integers modulo m, probability, binomial coefficients, binomial theorem, homomorphism, transitivity, s,  matrix.
+54.   programm languages,  abstract specifications of data s, denotational semantics, and proofs of .
+55.   Anyth  with star height of regular languages or regular expressions or regular events.
+56.     the algebraic theory of semigroups and monoids to the  of automata and regular languages.
+57.   Abstracts of : J. Backus, "Can programm be  from the Von Neumann style? A functional style and its algebra of "
+58.    or statistical packages for ANOVA, regression  least squares or generalized linear models.   , capabilities, statistical formula are of . t test, Wilcoxon and sign tests, multivariate and univariate components can be included.
+59.   Dictionary  and access s for  retrieval of or lexical items or morphologically . Hash or index s are to English spell or natural language problems.
+60.   Database packages, back end computers,   hardware with microcomputers to disk heads or ths  RAP, al or net (CODASYL) or hierarchical models, s   R, IMS, ADABAS, TOTAL, etc.
+61.    retrieval  by Gerard Salton or  about cluster, bibliographic coupl,  of citations or co-citations, the vector space model, Boolean search s  inverted files, feedback, etc. Salton, G.
+62.    relat  complexity theory (both for PRAM's and uniform circuits).
+63.    for  computation, and   and sequential .
+64.    all  on EL1 and ECL (EL1 may be given as EL/1;
